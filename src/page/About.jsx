@@ -15,7 +15,7 @@ function About() {
         <div className="containerMember">
           <div className="member">
             <div className="profile">
-              <img className="profileImg" src={nabila} alt="" />
+              <img className="profileImg" src="https://l.top4top.io/p_2408qtsdg2.jpg" alt="" />
             </div>
             <div className="memberName">Nabila Suci Azahra</div>
             <div className="backgroundPendidikan">
@@ -28,7 +28,7 @@ function About() {
           </div>
           <div className="member">
             <div className="profile">
-              <img className="profileImg" src={tegar} alt="" />
+              <img className="profileImg" src="https://a.top4top.io/p_2408s8v393.png" alt="" />
             </div>
             <div className="memberName">Tegar Sabila</div>
             <div className="backgroundPendidikan">
@@ -41,7 +41,7 @@ function About() {
           </div>
           <div className="member">
             <div className="profile">
-              <img className="profileImg" src={ronaldo} alt="" />
+              <img className="profileImg" src="https://k.top4top.io/p_2408fq2sp1.jpg" alt="" />
             </div>
             <div className="memberName">
               Ronaldo Immanuel Parningotan Siregar

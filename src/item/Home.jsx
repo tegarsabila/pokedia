@@ -16,7 +16,7 @@ function Home () {
 										<img style={{
 											width:'100%',
 											maxWidth:'250px'
-										}} src={logo} />
+										}} src="https://c.top4top.io/p_2408qffm69.png" />
 									</div>
 									<div class="column has-text-centered is-10-mobile is-offset-1-mobile is-5-desktop is-offset-1-desktop">
 										<h1 class="title is-3">Pokedia</h1>
@@ -37,7 +37,7 @@ function Home () {
 										<img style={{
 											width:'100%',
 											maxWidth:'250px'
-										}} src={pokedia} />
+										}} src="https://b.top4top.io/p_24089hej64.gif" />
 									</div>
 									<div class="column has-text-centered is-10-mobile is-offset-1-mobile is-5-desktop is-offset-1-desktop">
 										<h1 class="title is-3">What is Pokedia</h1>

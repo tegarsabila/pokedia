@@ -12,7 +12,7 @@ function Notfound() {
             <h1>4</h1>
           </div>
           <div class="section2">
-            <img src={notfound} alt="" />
+            <img src="https://j.top4top.io/p_2408ghzjf0.png" alt="" />
           </div>
           <div class="section3">
             <h1>4</h1>
